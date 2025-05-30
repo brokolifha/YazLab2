@@ -1,0 +1,14 @@
+=== Senaryo: Senaryo1 ===
+Drone Sayısı: 5
+Teslimat Sayısı: 20
+Uçuş Yasağı Bölge Sayısı: 2
+
+A* Algoritması Sonuçları:
+Tamamlanan Teslimat Yüzdesi: 35.00%
+Ortalama Enerji Tüketimi: 126.65 mAh
+Algoritma Çalışma Süresi: 0.0081 saniye
+
+Genetik Algoritma Sonuçları:
+Tamamlanan Teslimat Yüzdesi: 50.00%
+Ortalama Enerji Tüketimi: 210.56 mAh
+Algoritma Çalışma Süresi: 0.4474 saniye
