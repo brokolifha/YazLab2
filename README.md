@@ -43,11 +43,3 @@ Farklı senaryolar üzerinde testler gerçekleştirilmiş ve sonuçlar görselle
    ```
 
 3. Sonuçları `Senaryo*_results.txt` dosyalarında ve ilgili görsellerde inceleyebilirsiniz.
-
-## Katkıda Bulunma
-
-Katkılarınızı memnuniyetle karşılıyoruz! Lütfen önce bir konu açarak ne üzerinde çalışmak istediğinizi belirtin.
-
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasını inceleyin.
