@@ -26,8 +26,6 @@ Farklı senaryolar üzerinde testler gerçekleştirilmiş ve sonuçlar görselle
    pip install -r requirements.txt
    ```
 
-   Not: `requirements.txt` dosyası mevcut değilse, kullanılan kütüphaneleri manuel olarak yükleyin.
-
 ## Kullanım
 
 1. Veri setini oluşturun:
